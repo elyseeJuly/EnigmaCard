@@ -1,0 +1,17 @@
+{
+  "name": "隐信片 Enigma Card",
+  "short_name": "隐信片",
+  "description": "把私语藏进一张安静的图里。",
+  "display": "standalone",
+  "background_color": "#efe6d7",
+  "theme_color": "#1f1a17",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
